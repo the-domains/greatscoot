@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Welcome to GREAT SCOOT.
-datePublished: '2016-05-21T20:34:20.079Z'
-dateModified: '2016-05-21T20:33:45.202Z'
+datePublished: '2016-05-21T20:38:42.765Z'
+dateModified: '2016-05-21T20:34:25.222Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-21-welcome-to-great-scoot.md
